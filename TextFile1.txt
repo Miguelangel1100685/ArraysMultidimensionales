@@ -1,0 +1,4 @@
+﻿Columnas 
+ 0    1
+|1 | |2| Fila 0
+|3|  |4| Fula 1

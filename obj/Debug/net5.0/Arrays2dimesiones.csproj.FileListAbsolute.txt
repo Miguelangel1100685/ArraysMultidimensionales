@@ -1,0 +1,16 @@
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\bin\Debug\net5.0\Arrays2dimesiones.exe
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\bin\Debug\net5.0\Arrays2dimesiones.deps.json
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\bin\Debug\net5.0\Arrays2dimesiones.runtimeconfig.json
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\bin\Debug\net5.0\Arrays2dimesiones.runtimeconfig.dev.json
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\bin\Debug\net5.0\Arrays2dimesiones.dll
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\bin\Debug\net5.0\ref\Arrays2dimesiones.dll
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\bin\Debug\net5.0\Arrays2dimesiones.pdb
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\obj\Debug\net5.0\Arrays2dimesiones.csproj.AssemblyReference.cache
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\obj\Debug\net5.0\Arrays2dimesiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\obj\Debug\net5.0\Arrays2dimesiones.AssemblyInfoInputs.cache
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\obj\Debug\net5.0\Arrays2dimesiones.AssemblyInfo.cs
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\obj\Debug\net5.0\Arrays2dimesiones.csproj.CoreCompileInputs.cache
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\obj\Debug\net5.0\Arrays2dimesiones.dll
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\obj\Debug\net5.0\ref\Arrays2dimesiones.dll
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\obj\Debug\net5.0\Arrays2dimesiones.pdb
+C:\Users\Miguelangel\Desktop\Arrays2\Arrays2dimesiones\obj\Debug\net5.0\Arrays2dimesiones.genruntimeconfig.cache
