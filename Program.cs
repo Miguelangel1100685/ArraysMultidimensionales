@@ -22,7 +22,33 @@ namespace Arrays2dimesiones
                 }
             }
 
+            for (int fila = 0; fila < Datos.GetLength(0); fila++)
 
+            {
+                float sumaFila = 0;
+                for (int columna = 0; columna < Datos.GetLength(1); columna++)
+                {
+                    sumaFila += Datos[Filas, Columnas];
+                   
+                }
+                Console.WriteLine("La media de la fila es" + sumaFila / Datos.GetLength(1));
+            }
+
+            float sumaTotal = 0;
+                foreach (float f in Datos)
+                {
+
+                sumaTotal += f;
+
+                }
+            Console.WriteLine("La media de la fila es" + sumaTotal / Datos.Length);
+
+
+
+            
         }
     }
+
+
+
 }
